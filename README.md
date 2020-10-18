@@ -11,6 +11,9 @@ If you have some cool ideas please tell me
 
 next i will be learning about websockets
 
+
+=> Run Python server first
+
 1. for 'get all list, items' - no need to fill name and price form ... It will retrieve all the data
 2. for 'get a item' - fill Name form to retrieve specific item
 3. for 'post data' - fill both name and price.. it will add item
